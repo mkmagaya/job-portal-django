@@ -10,10 +10,16 @@ run app using ```python manage.py runserver```
 username: admin
 password: admin
 
-##admin
+##job seeker
 username: makomagaya05@gmail.com
 password: 61251998
 
-##admin
+##jop provider
 username: econet
 password: econet
+
+username: telco@gmail.com
+password: 61251998
+
+username: cassava@gmail.com
+password: cassava
